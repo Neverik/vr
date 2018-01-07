@@ -1,0 +1,16 @@
+# FILE:yurasumin.obj
+newmtl METALL-CINK
+Ka 0.531283 0.538045 0.543429
+Kd 0.431667 0.437162 0.441536
+Ks 0.464968 0.464968 0.464968
+illum 2
+Ns 11
+newmtl DEREVO-SOSNA_GORIZONTAL_NAA
+Ka 0.822902 0.694745 0.458667
+Kd 0.717647 0.605882 0.4
+Ks 0.47 0.47 0.47
+illum 2
+Ns 14
+map_Ka Текстура сосны альфа.jpg
+map_Kd Текстура сосны альфа.jpg
+map_Ks Текстура сосны альфа.jpg

@@ -1,0 +1,49 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_11718
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.435294 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd mushroms/M_11718.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_M09
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl agaricus_dulcidulus_mushroom_17_10_06_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.254902 0.196078
+Ks 0.330000 0.330000 0.330000
+map_Kd mushroms/agaricus_dulcidulus_mushroom_17_10_06_3.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.330000 0.330000 0.330000
+
+newmtl saucermushroom3
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.407843 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd mushroms/saucermushroom3.jpg
+
+newmtl P9300742
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.356863 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd mushroms/P9300742.jpg
+
+newmtl agaricus_campestris_field_mushroom_02_09_04_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.364706 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd mushroms/agaricus_campestris_field_mushroom_02_09_04_1.jpg
+
